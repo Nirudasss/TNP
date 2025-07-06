@@ -87,9 +87,9 @@ async def edit_video_metadata(user_id, file_path):
         '-metadata', f'LICENSE=© @MLTBRM - All Rights Reserved. No reuploading or copying. DMCA Protected. Any unauthorized distribution, reproduction, or modification is a violation of DMCA and copyright laws.',
         '-metadata', f'License=© @MLTBRM - All Rights Reserved. No reuploading or copying. DMCA Protected. Any unauthorized distribution, reproduction, or modification is a violation of DMCA and copyright laws.',
         '-metadata', f'author=@MLTBRM And @RM_Movie_Flix',
-        '-metadata', f'summary=This File Is Downloaded From "@RM_Movie_Flix " so Please Join Our Channels and Support Us We Need Your Support  ~ @MLTBRM ',
-        '-metadata', f'comment=Ripped And Encoded By -- MLTBRM --',
-        '-metadata', f'Comment=Ripped And Encoded By -- MLTBRM --',
+        '-metadata', f'summary=This File Is Downloaded From "@Elite_Leech_Grp " so Please Join Our Channels and Support Us We Need Your Support  ~ @MLTBRM ',
+        '-metadata', f'comment=Ripped And Encoded By -- Elite --',
+        '-metadata', f'Comment=Ripped And Encoded By -- Elite --',
         '-metadata', f'artist=MLTBRM',
         '-metadata', f'album=MLTBRM',
         '-metadata', f'genre=MLTBRM',
@@ -98,12 +98,12 @@ async def edit_video_metadata(user_id, file_path):
         '-metadata', f'date=',
         '-metadata', f'creation_time=',
         '-metadata', f'language=',
-        '-metadata', f'publisher=RM_Movie_Flix',
-        '-metadata', f'encoder=Encoded By RM_Movie_Flix',
-        '-metadata', f'SUMMARY=This File Is Downloaded From "@RM_Movie_Flix " so Please Join Our Channels and Support Us We Need Your Support  ~ MLTBRM ',
-        '-metadata', f'Summary=This File Is Downloaded From "@RM_Movie_Flix " so Please Join Our Channels and Support Us We Need Your Support  ~ MLTBRM ',
+        '-metadata', f'publisher=Elite_Leech_Grp',
+        '-metadata', f'encoder=Encoded By Elite_Leech_Grp',
+        '-metadata', f'SUMMARY=This File Is Downloaded From "@Elite_Leech_Grp " so Please Join Our Channels and Support Us We Need Your Support  ~ MLTBRM ',
+        '-metadata', f'Summary=This File Is Downloaded From "@Elite_Leech_Grp " so Please Join Our Channels and Support Us We Need Your Support  ~ MLTBRM ',
         '-metadata', f'AUTHOR=MLTBRM',
-        '-metadata', f'WEBSITE=Just Join Our Telegram Channel https://t.me/MLTBRM, there you will get all details regarding our website',
+        '-metadata', f'WEBSITE=Just Join Our Telegram Channel https://t.me/Elite_Leech_Grp, there you will get all details regarding our website',
         '-metadata', f'COMMENT=Ripped And Encoded By -- RM_Movie_Flix -- ',
         '-metadata', f'ENCODER=Encoded By MLTBRM',
         '-metadata', f'Encoder=Encoded By MLTBRM',
@@ -111,9 +111,9 @@ async def edit_video_metadata(user_id, file_path):
         '-metadata', f'MIMETYPE=',
         '-metadata', f'PURL=',
         '-metadata', f'ALBUM=MLTBRM',
-        '-metadata', f'CHANNEL=https://t.me/RM_Movie_Flix',
-        '-metadata', f'Channel=https://t.me/RM_Movie_Flix',
-        '-metadata', f'channel=https://t.me/RM_Movie_Flix'
+        '-metadata', f'CHANNEL=https://t.me/Radha_Rani_Backup',
+        '-metadata', f'Channel=https://t.me/Radha_Rani_Backup',
+        '-metadata', f'channel=https://t.me/Radha_Rani_Backup'
     ]
 
     audio_index = 0
